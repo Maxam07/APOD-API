@@ -1,0 +1,21 @@
+{
+  "name": "apod",
+  "version": "1.0.0",
+  "description": "API CAPSTONE",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Uberas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.3.3",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "node-modules": "^0.0.1",
+    "nodemon": "^3.1.0"
+  }
+}
